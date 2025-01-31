@@ -1,0 +1,20 @@
+Source File	Size	loadResources	load-configure	scan	loadDepInfo	loadInfo	load	generateSnapshots	checkR4R4B	generateNarratives	validate	loadLists	checkConformanceResources	checkConformanceResources2	checkConformanceResources3	generateLogicalMaps	validateExpressions	scanForUsageStats	checkURLsUnique	processProvenanceDetails	translate	generate1	generate2	responsesForQuestionnaire	generateLogicals	makeDependencies	generateExampleZip	generateValidationPack	scanProfilesForR5	scanExamplesForR5
+/input/myig.xml	9862	-	0	0	0	0	0	0	54	397	0	0	0	0	0	0	0	5	0	0	22	360	280	0	0	1	0	27	0	2
+input/examples/Binary-example.json	958200	119	1	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	11	4137	254	0	0	0	0	0	0	0
+input/examples/Library-example.json	646	20	0	0	0	0	0	0	2	1757	0	0	0	0	0	0	0	0	0	0	12	749	76	0	0	0	0	31	0	0
+input/examples/Observation-example.xml	1889	43	0	0	0	0	0	0	0	491	0	0	0	0	0	0	0	0	0	0	14	28	50	0	0	0	0	0	0	0
+input/examples/Patient-example.xml	1179	41	0	0	0	0	0	0	11	2	0	0	0	0	0	0	0	0	0	0	1	17	25	0	0	0	0	0	0	0
+input/history/h1.json	1535	20	0	0	0	0	12	0	0	18	0	0	0	0	0	0	0	0	0	4	23	18	23	0	0	0	0	0	0	0
+input/resources/ActorDefinition-example.json	469	21	0	0	0	0	0	0	0	35	0	0	0	0	0	0	0	0	0	0	11	26	32	0	0	0	0	2	0	0
+input/resources/MyLogical.xml	1341	28	0	0	1	0	0	10	0	65	0	0	1	0	0	0	0	0	0	0	2	120	2960	0	0	0	0	45	0	0
+input/resources/StructureDefinition-ext-myExtension.json	36088	41	1	0	0	0	0	72	0	42	0	0	0	0	0	0	0	0	0	0	2	508	401	0	0	0	0	10	0	1
+input/resources/codesystem-fake.xml	726	25	0	0	0	0	0	0	0	37	0	0	0	0	0	0	0	0	0	0	14	47	2301	0	0	0	0	1	0	0
+input/resources/library-example-image.xml	7457	21	0	0	0	0	0	0	1	379	0	0	0	0	0	0	0	1	0	0	18	138	199	0	0	0	0	1	0	0
+input/resources/library-example-sql.xml	843	11	0	0	0	0	0	0	0	506	0	0	0	0	0	0	0	0	0	0	11	60	103	0	0	0	0	1	0	0
+input/resources/myObservation.xml	13235	39	0	0	0	0	0	131	0	209	0	0	0	0	0	1	0	2	0	0	3	1195	4261	0	0	0	0	149	2	1
+input/resources/questionnaire-example.json	4549	26	0	0	0	0	0	0	0	21	0	0	0	0	0	0	0	0	0	0	12	281	721	0	0	0	0	31	0	0
+input/resources/valueset-fake.xml	819	9	0	0	0	0	0	0	0	156	0	0	0	0	0	0	0	1	1	0	12	22	6354	0	0	0	0	2	0	0
+input/resources/valueset-no-codesystem.xml	913	8	1	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	12	24	87	0	0	0	0	2	0	0
+/input/resources/resources-spreadsheet.xml	655076	-	0	0	0	0	0	239	0	132	0	0	1	0	0	0	0	2	0	0	7	1259	2122	0	0	0	0	103	2	12
+/input/examples/binary-logical-example.xml	139	-	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	10	12	8	0	0	0	0	0	0	0
+/input/examples/Binary-image-example.jpg	30849	-	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	163	13	0	0	0	0	0	0	0

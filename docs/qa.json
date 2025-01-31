@@ -1,0 +1,19 @@
+{
+  "url" : "http://somewhere.org/fhir/uv/myig/ImplementationGuide/example.fhir.uv.myig",
+  "name" : "YourComputableMyIGNameHere",
+  "title" : "Your User Friendly Name for MyIG Here",
+  "description" : "A brief description of what MyIG is about (probably the same text as in your readme)",
+  "status" : "draft",
+  "package-id" : "example.fhir.uv.myig",
+  "ig-ver" : "0.2.0",
+  "date" : "Fri, 31 Jan, 2025 06:52:18 -0500",
+  "dateISO8601" : "2025-01-31T06:52:18-05:00",
+  "errs" : 23,
+  "warnings" : 23,
+  "hints" : 7,
+  "suppressed-hints" : 1,
+  "suppressed-warnings" : 1,
+  "version" : "4.0.1",
+  "tool" : "5.0.0 (3)",
+  "maxMemory" : 1354582848
+}
